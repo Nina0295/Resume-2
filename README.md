@@ -1,4 +1,2 @@
-# my-site
-Резюме
-
-Навыки, которые прокачивала:HTML+CSS
+# Resume
+Improvement skills:HTML+CSS
